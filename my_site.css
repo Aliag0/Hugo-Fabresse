@@ -321,7 +321,7 @@ ul#pages li {
     transform: translate(-50%, 50%);
     font-size: xx-large;
     font-family: 'Fira Code', monospace;;
-    position: relative;
+    position: absolute;
     padding: 10px;
     border-radius: 25px;
     border: solid 1px white;
