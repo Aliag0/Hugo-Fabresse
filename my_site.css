@@ -291,27 +291,27 @@ ul#pages li {
 }
 
 #competences_page {
-    width: 100vw;
+    width: 100px;
     position: relative;
 }
 
 #porfolio_page {
-    width: 100vw;
+    width: 100px;
     position: relative;
 }
 
 #cv_page {
-    width: 100vw;
+    width: 100px;
     position: relative;
 }
 
 #autre_page {
-    width: 100vw;
+    width: 100px;
     position: relative;
 }
 
 #coordonnees_page {
-    width: 100vw;
+    width: 100px;
     position: relative;
 }
 
@@ -321,7 +321,7 @@ ul#pages li {
     transform: translate(-50%, 50%);
     font-size: xx-large;
     font-family: 'Fira Code', monospace;;
-    position: absolute;
+    position: relative;
     padding: 10px;
     border-radius: 25px;
     border: solid 1px white;
