@@ -292,27 +292,27 @@ ul#pages li {
 
 #competences_page {
     width: 100px;
-    position: relative;
+    position: absolute;
 }
 
 #porfolio_page {
     width: 100px;
-    position: relative;
+    position: absolute;
 }
 
 #cv_page {
     width: 100px;
-    position: relative;
+    position: absolute;
 }
 
 #autre_page {
     width: 100px;
-    position: relative;
+    position: absolute;
 }
 
 #coordonnees_page {
     width: 100px;
-    position: relative;
+    position: absolute;
 }
 
 #in_production {
