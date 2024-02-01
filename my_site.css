@@ -291,37 +291,51 @@ ul#pages li {
 }
 
 #competences_page {
-    width: 700px;
+    width: 100vw;
+    height: 100vh;
     position: relative;
 }
 
-#porfolio_page {
-    width: 700px;
+#portfolio_page {
+    width: 100vw;
+    height: 100vh;
     position: relative;
 }
 
 #cv_page {
-    width: 700px;
+    width: 100vw;
+    height: 100vh;
     position: relative;
 }
 
+#my_cv {
+    left: 50%;
+    transform: translate(-50%, 50%);
+    position: absolute;
+    border-radius: 25px;
+}
+
 #autre_page {
-    width: 700px;
+    width: 100vw;
+    height: 100vh;
     position: relative;
 }
 
 #coordonnees_page {
-    width: 700px;
+    width: 100vw;
+    height: 100vh;
     position: relative;
 }
 
 #in_production {
+    width: 400px;
     color: white;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     font-size: xx-large;
-    font-family: 'Fira Code', monospace;;
+    font-family: 'Fira Code', monospace;
+    text-align: center;
     position: relative;
     padding: 10px;
     border-radius: 25px;

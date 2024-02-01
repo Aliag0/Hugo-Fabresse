@@ -9,7 +9,7 @@ function obtenirValeur(element, propriete) {
 document.addEventListener('DOMContentLoaded', function() {
     elements.forEach(element => {
         element.addEventListener('click', function() {
-            location.replace("/Portfolio-Github/" + this.id);
+            location.replace("../" + this.id);
         });
     });
 });
